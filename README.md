@@ -20,7 +20,7 @@ Computer Science student passionate about software development, building reliabl
 
 ### Tech Stack
 
-Python | Java | JavaScript | SQL | Docker | Git | GitHub
+Python | Java | JavaScript | SQL | Docker | Git
 
 ### GitHub Stats
 
@@ -29,7 +29,3 @@ Add your GitHub stats cards here.
 ### Contact
 
 * 📫 Email: [m7mdrajhi@gmail.com](mailto:m7mdrajhi@gmail.com)
-* 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=36go&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=36go&layout=compact)
