@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm [Your Name]
 
-<!--
-**36go/36go** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Software Developer passionate about building scalable applications and solving real-world problems.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Frontend Expert with strong experience in modern web technologies
+* Backend Developer focused on building reliable and scalable systems
+* Interested in AI and Cloud Computing
+* Continuously learning and improving my software engineering skills
+* Open to collaboration on interesting projects
+
+## Technologies
+
+* React
+* TypeScript
+* JavaScript
+* Python
+* Java
+* SQL
+* Git
+
+## Contact
+
+* LinkedIn: [Your LinkedIn]
+* Email: m7mdraji@gmail.com
+
