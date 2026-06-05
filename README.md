@@ -16,7 +16,7 @@ I'm a software engineer specializing in backend development and system design. I
 
 ---
 
-## 🌐 Socials:
+## 🌐 Connect with me:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pu.rw)
 
@@ -52,23 +52,27 @@ I'm a software engineer specializing in backend development and system design. I
 
 ## 📊 GitHub Stats:
 
+### 📈 Contribution Activity:
+
 <div align="center">
   
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=36go&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/36go)
-  
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=36go&theme=tokyonight&layout=compact)](https://github.com/36go)
+[![36go's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=36go&theme=tokyo-night&bg_color=0D1117)](https://github.com/36go)
 
 </div>
 
 ---
 
-### 📌 Alternative Stats View:
+### 📌 Repository Stats:
 
-<div align="center">
-  
-[![36go's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=36go&theme=tokyo-night)](https://github.com/36go)
+<table align="center">
+  <tr>
+    <td><a href="https://github.com/36go"><strong>👤 Profile</strong></a></td>
+    <td><a href="https://github.com/36go?tab=repositories"><strong>📂 Repositories</strong></a></td>
+    <td><a href="https://github.com/36go?tab=stars"><strong>⭐ Stars</strong></a></td>
+  </tr>
+</table>
 
-</div>
+> **💡 Tip:** Click links above to view detailed GitHub stats and repositories
 
 ### 📈 Quick Stats:
 - **Total Repositories:** Check on [GitHub Profile](https://github.com/m7mdrajhi)
@@ -77,6 +81,18 @@ I'm a software engineer specializing in backend development and system design. I
 - **Focus Areas:** Backend Development, System Design, AI
 
 ---
+
+---
+
+### 📊 Quick Statistics:
+
+| Metric | Details |
+|--------|---------|
+| **Primary Languages** | Python, Java, JavaScript, TypeScript |
+| **Focus Areas** | Backend Development, System Design, AI |
+| **Database Experience** | PostgreSQL, MySQL, MongoDB, SQLite |
+| **Tools & Platforms** | Git, GitHub, Docker, Linux |
+| **Frameworks** | React, Node.js, Express, Django |
 
 ---
 
