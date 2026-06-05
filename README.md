@@ -53,9 +53,30 @@ I'm a software engineer specializing in backend development and system design. I
 ## 📊 GitHub Stats:
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=36go&theme=dark&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=36go&theme=dark&layout=compact" />
+  
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=36go&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/36go)
+  
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=36go&theme=tokyonight&layout=compact)](https://github.com/36go)
+
 </div>
+
+---
+
+### 📌 Alternative Stats View:
+
+<div align="center">
+  
+[![36go's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=36go&theme=tokyo-night)](https://github.com/36go)
+
+</div>
+
+### 📈 Quick Stats:
+- **Total Repositories:** Check on [GitHub Profile](https://github.com/m7mdrajhi)
+- **Main Languages:** Python, Java, JavaScript
+- **Total Commits:** Active contributor
+- **Focus Areas:** Backend Development, System Design, AI
+
+---
 
 ---
 
