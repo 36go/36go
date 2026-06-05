@@ -53,8 +53,8 @@ I'm a software engineer specializing in backend development and system design. I
 ## 📊 GitHub Stats:
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=dark&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=dark&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=36go&theme=dark&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=36go&theme=dark&layout=compact" />
 </div>
 
 ---
