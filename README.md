@@ -75,7 +75,7 @@ I'm a software engineer specializing in backend development and system design. I
 > **💡 Tip:** Click links above to view detailed GitHub stats and repositories
 
 ### 📈 Quick Stats:
-- **Total Repositories:** Check on [GitHub Profile](https://github.com/m7mdrajhi)
+- **Total Repositories:** Check on [GitHub Profile](https://github.com/36go)
 - **Main Languages:** Python, Java, JavaScript
 - **Total Commits:** Active contributor
 - **Focus Areas:** Backend Development, System Design, AI
