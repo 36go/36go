@@ -1,121 +1,49 @@
-# Hey there 👋 I'm Mohammad Alrajhi
+# Hey, I'm Mohammad
 
-Computer Science student passionate about software development, building reliable systems, and continuously learning new technologies.
+I'm a Computer Science student who likes building things, trying out new ideas, and figuring out why something isn't working.
 
----
+I mostly work on backend projects. I enjoy building APIs, working with databases, and learning how different parts of a system fit together. A lot of my projects start as random ideas that I want to try, so they don't always turn into something serious, but I usually learn something from them.
 
-## 🎯 About Me:
+## Things I use
 
-I'm a software engineer specializing in backend development and system design. I love building scalable applications and solving complex problems through clean, efficient code. With a strong foundation in computer science, I'm constantly exploring new technologies and best practices in software engineering.
+* Python
+* Java
+* JavaScript
+* TypeScript
+* PostgreSQL
+* MySQL
+* MongoDB
+* SQLite
+* React
+* Node.js
+* Express
+* Django
+* Git
+* GitHub
+* Docker
+* Linux
+my stack is bigger than yours
+## Currently learning
 
-- 🌱 Currently learning and building new projects
-- 💻 Passionate about Backend Development, System Design, and AI
-- 👯 Open to collaboration and learning opportunities
-- 💬 Ask me about: Java, Python, JavaScript, Databases, and Software Development
-- 📫 Reach me at: m7mdrajhi@gmail.com
+I'm currently spending more time learning about system design, distributed systems, cloud technologies, and AI.
 
----
+I also like trying out new tools whenever I have the time. Sometimes it turns into a project, and sometimes it just ends with me realizing I probably didn't need another tool.
 
-## 🌐 Connect with me:
+## Projects
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pu.rw)
+Most of my projects are backend systems, bots, web applications, or small experiments.
 
----
+I'm also working on a few projects related to AI and automation. Some of them are still unfinished, but that's usually how most of my projects start.
 
-## 💻 Tech Stack:
+## A little about me
 
-**Languages:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+* I usually prefer backend development over frontend
+* I like understanding how things work, not just making them work
+* I spend a lot of time debugging things that looked simple at first
+* I enjoy working on small ideas just to see where they go
 
-**Databases & Tools:**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+## Contact
 
-**Frameworks & Libraries:**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+Email: [m7mdrajhi@gmail.com](mailto:m7mdrajhi@gmail.com)
 
-**Tools & Platforms:**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-## 📊 GitHub Stats:
-
-### 📈 Contribution Activity:
-
-<div align="center">
-  
-[![36go's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=36go&theme=tokyo-night&bg_color=0D1117)](https://github.com/36go)
-
-</div>
-
----
-
-### 📌 Repository Stats:
-
-<table align="center">
-  <tr>
-    <td><a href="https://github.com/36go"><strong>👤 Profile</strong></a></td>
-    <td><a href="https://github.com/36go?tab=repositories"><strong>📂 Repositories</strong></a></td>
-    <td><a href="https://github.com/36go?tab=stars"><strong>⭐ Stars</strong></a></td>
-  </tr>
-</table>
-
-> **💡 Tip:** Click links above to view detailed GitHub stats and repositories
-
-### 📈 Quick Stats:
-- **Total Repositories:** Check on [GitHub Profile](https://github.com/36go)
-- **Main Languages:** Python, Java, JavaScript
-- **Total Commits:** Active contributor
-- **Focus Areas:** Backend Development, System Design, AI
-
----
-
----
-
-### 📊 Quick Statistics:
-
-| Metric | Details |
-|--------|---------|
-| **Primary Languages** | Python, Java, JavaScript, TypeScript |
-| **Focus Areas** | Backend Development, System Design, AI |
-| **Database Experience** | PostgreSQL, MySQL, MongoDB, SQLite |
-| **Tools & Platforms** | Git, GitHub, Docker, Linux |
-| **Frameworks** | React, Node.js, Express, Django |
-
----
-
-## 🚀 Current Projects:
-
-- Building scalable backend systems
-- Exploring AI and Machine Learning applications
-- Contributing to open-source projects
-- Creating educational content on software development
-
----
-
-## 📚 Learning Goals:
-
-- Advanced System Design & Architecture
-- Cloud Technologies (AWS, GCP, Azure)
-- Microservices & Distributed Systems
-- DevOps & CI/CD Pipelines
-- Machine Learning & AI Integration
-
----
-
-<div align="center">
-  <p>⭐ Feel free to reach out for collaboration or just a friendly chat about tech!</p>
-  <p>Let's build something amazing together! 🚀</p>
-</div>
+Feel free to reach out if you want to talk about programming, projects, or anything tech-related.
