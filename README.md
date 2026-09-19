@@ -22,6 +22,7 @@ I mostly work on backend projects. I enjoy building APIs, working with databases
 * GitHub
 * Docker
 * Linux
+
 my stack is bigger than yours
 ## Currently learning
 
