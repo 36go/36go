@@ -1,4 +1,3 @@
-
 # hey im Mohammad
 
 Im a Computer Science student who likes building things trying out new ideas and figuring out why something isnt working.
